@@ -33,7 +33,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "faker": "^4.1.0",
     "glob": "^7.1.2",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "rimraf": "^2.6.2",
